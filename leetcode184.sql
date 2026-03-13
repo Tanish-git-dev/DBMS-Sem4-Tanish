@@ -1,4 +1,4 @@
-WITH Temp AS (
+WITH AS (
     SELECT
       *,
       RANK() OVER (
